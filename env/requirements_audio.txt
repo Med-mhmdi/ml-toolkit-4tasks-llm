@@ -1,0 +1,6 @@
+tensorflow>=2.14.0
+tensorflow-hub>=0.16.0
+tensorflow-io-gcs-filesystem>=0.31.0
+librosa>=0.10.1
+soundfile>=0.12.1
+numpy>=1.26.0

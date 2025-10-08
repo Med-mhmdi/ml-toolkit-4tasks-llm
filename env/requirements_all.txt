@@ -1,0 +1,11 @@
+transformers
+torch
+tensorflow
+tensorflow-hub
+tensorflow-io-gcs-filesystem
+librosa
+soundfile
+numpy
+pillow
+ultralytics
+opencv-python
